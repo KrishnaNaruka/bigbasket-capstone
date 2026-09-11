@@ -1,0 +1,7 @@
+category,total_revenue,target_revenue_inr,variance,percentage_variance,target_status
+Household Essentials,21715,17000,-4715,27.735294117647058,Above Target
+Personal Care,16382,15500,-882,5.690322580645161,Above Target
+Bakery,15410,12000,-3410,28.416666666666668,Above Target
+Dairy & Eggs,14090,16500,2410,-14.606060606060606,Below Target - Watch
+Snacks & Beverages,10895,13000,2105,-16.192307692307693,Below Target - Critical
+Fruits & Vegetables,9790,12000,2210,-18.416666666666668,Below Target - Critical
