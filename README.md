@@ -42,7 +42,6 @@ Do not change the seed, fixed lists or weights. The generated database and raw e
 
 **Live dashboard:** `https://public.tableau.com/views/BigBasket_Category_Revenue_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
-Publish the required dashboard to Tableau Public, then replace the placeholder above with the public URL.
 
 ## Data story
 
